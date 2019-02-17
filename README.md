@@ -6,3 +6,6 @@ An augmented reality app which recognize the image from a story book and narrate
 1. Download the Apk file and installl it in your Android device.
 2. Take the colour print out of the Images in the images folder.(These app detectes the Image and the narrates the story).
 3. Open the App and point the camera towards the Image.
+
+# Note
+All the images should be Portrait image.
